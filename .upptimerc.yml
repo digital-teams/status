@@ -5,10 +5,8 @@ sites:
   - name: Google
     url: https://www.google.com
     icon: https://www.google.com/favicon.ico
-  - name: Cloudflare DNS
-    check: "tcp-ping"
-    url: 1.1.1.1
-    port: 53
+  - name: Cloudflare DNS over TLS
+    url: https://cloudflare-dns.com
     icon: https://www.cloudflare.com/favicon.ico
 
 status-website:
