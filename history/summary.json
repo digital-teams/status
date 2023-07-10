@@ -4,19 +4,19 @@
     "url": "https://www.google.com",
     "icon": "https://www.google.com/favicon.ico",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 107,
-    "timeDay": 255,
-    "timeWeek": 170,
-    "timeMonth": 123,
+    "timeDay": 195,
+    "timeWeek": 159,
+    "timeMonth": 122,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2023-07-10": 0
+      "2023-07-10": 21
     }
   },
   {
