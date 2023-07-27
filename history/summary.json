@@ -11,9 +11,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 106,
-    "timeDay": 77,
-    "timeWeek": 109,
-    "timeMonth": 117,
+    "timeDay": 70,
+    "timeWeek": 80,
+    "timeMonth": 116,
     "timeYear": 106,
     "dailyMinutesDown": {
       "2023-07-10": 21
@@ -26,17 +26,15 @@
     "slug": "cloudflare-dns-over-tls",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 117,
-    "timeDay": 199,
-    "timeWeek": 281,
-    "timeMonth": 329,
+    "timeDay": 155,
+    "timeWeek": 260,
+    "timeMonth": 325,
     "timeYear": 117,
-    "dailyMinutesDown": {
-      "2023-07-26": 14
-    }
+    "dailyMinutesDown": {}
   }
 ]
